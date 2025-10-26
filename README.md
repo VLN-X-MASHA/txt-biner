@@ -15,11 +15,11 @@ Biner Converter adalah tool Python untuk mengubah teks menjadi kode biner dan se
 pip install InquirerPy
 git clone https://github.com/VLN-X-MASHA/txt-biner.git
 cd txt-biner
-
+```
 Cara Pakai
-
+```bash
 python3 text2biner.py
-
+```
 1. Ubah teks ke biner
 
 
